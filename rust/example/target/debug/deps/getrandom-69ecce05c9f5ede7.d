@@ -1,0 +1,11 @@
+/home/joaoferreira/githubRepos/PersonalStudies/rust/example/target/debug/deps/getrandom-69ecce05c9f5ede7.rmeta: /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/lib.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error_impls.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util_libc.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/use_file.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/linux_android.rs
+
+/home/joaoferreira/githubRepos/PersonalStudies/rust/example/target/debug/deps/getrandom-69ecce05c9f5ede7.d: /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/lib.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error_impls.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util_libc.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/use_file.rs /home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/linux_android.rs
+
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/lib.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/error_impls.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/util_libc.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/use_file.rs:
+/home/joaoferreira/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.2/src/linux_android.rs:
