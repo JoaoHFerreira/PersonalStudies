@@ -1,5 +1,5 @@
 #intelij configs
-.idea
+/.idea
 
 # Sbt residues
-.bsp
+/.bsp
