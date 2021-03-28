@@ -1,0 +1,5 @@
+#intelij configs
+.idea
+
+# Sbt residues
+.bsp
